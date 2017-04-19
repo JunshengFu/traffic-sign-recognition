@@ -27,6 +27,7 @@ Anaconda is used for managing my [**dependencies**](https://github.com/udacity/C
 
 * [images](images) folder contains the test images.
 
+* [data](data) folder user should download training and testing pickled data and put them into this folder.
 
 ### 3. How to run the code
 
@@ -48,11 +49,13 @@ jupyter notebook Traffic_Sign_Classifier.ipynb
 ## Release History
 
 * 0.1.2
-    * Add image histogram normalization
-    * Date 25 January 2017
+    * Update README.md
+    * Modify the Traffic_Sign_Classifier.ipynb for loading the testing and training data
+    * Date 19 April 2017
 
 * 0.1.1
     * Update network and optimize the parameters
+    * Add image histogram normalization
     * Date 25 January 2017
 
 * 0.1.0
